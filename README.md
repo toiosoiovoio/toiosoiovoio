@@ -2,9 +2,8 @@
 - 👀 I’m interested in radio communications, ham radio, PMR446, CB27, IoT, LORA, SDR, Docker, Raspberry Pi and SBCs in general. Wait... Don't forget Amazon and Ali Express discounts!!!
 - 🌱 I’m currently learning a lot!
 - 💞️ I’m looking for... time. I need time. Really bad. 
-- 📫 How to reach me on the Internet. 
 
-Thank you all for sharing the outcome of your hard work and talent. Thumbs up.
+Thank you all for sharing the outcome of your hard work and talent. Open Source Rules. Thumbs up.
 
 <!---
 toiosoiovoio/toiosoiovoio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
